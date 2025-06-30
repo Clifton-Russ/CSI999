@@ -1,0 +1,1 @@
+You must open the "Classification Learner" app in MATLAB. Once in the Classification Learner, you can open these files. You must have MATLAB 2024b or later in order to explicitly see precision, F1 and recall scores. I recommend using MATLAB 2025a. Once open, select the down arrow next to "Sort by" under "Models" to choose to view the models by validation, testing, etc. 
